@@ -51,7 +51,7 @@ conda env create -f environment.yml
 conda activate stylegan3
 ```
 
-Then install the additional requirements
+Then install the additional requirements.txt
 
 ```
 pip install -r requirements
